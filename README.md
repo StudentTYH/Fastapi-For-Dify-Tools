@@ -29,6 +29,6 @@ python run.py
 
 ## Tools
 
-[百度搜索]   
+[百度搜索](https://github.com/StudentTYH/Fastapi-For-Dify-Tools/tree/main/Demo/baidu_search)
 
-PaddleOCR
+[PaddleOCR](https://github.com/StudentTYH/Fastapi-For-Dify-Tools/tree/main/Demo/paddle_ocr)
