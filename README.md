@@ -18,7 +18,9 @@ python run.py
 
 ## Usage
 1、访问：http://localhost:8767/docs
+
 2、复制openapi.json到dify tools中
+
 3、导入 DSL (yml)文件到dify中使用自定义组件
 
 
